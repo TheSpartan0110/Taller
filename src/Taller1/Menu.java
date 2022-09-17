@@ -16,10 +16,18 @@ public class Menu {
 		do {
 
 			String menu = "---MENU---\n\n" 
-					+ "1. Ingrese la nota al inicio de la lista\n"
-					+ "2. Ingrese la nota al final de la lista\n" 
-					+ "3. Mostrar la lista\n"
-					+ "4. Mostrar el promedio de las calificaciones\n" 
+					+ " 1. Ingrese un estudiante al inicio de la lista\n"
+					+ " 2. Ingrese un estudiante al final de la lista\n" 
+					+ " 3. Ingrese un estudiante en cualquier posicion de la lista\n"
+					+ " 4. Mostrar la lista de estudiantes\n"
+					+ " 5. Consultar un estudiante\n"
+					+ " 6. Eliminar estudiante de inicio de la lista\n"
+					+ " 7. Eliminar estudiante del final de la lista\n"
+					+ " 8. Mostrar la lista\n"
+					+ " 9. Mostrar la lista\n"
+					+ "10. Mostrar la lista\n"
+					+ "11. Mostrar la lista\n"
+					+ "12. Mostrar la lista\n"
 					+ "0. Salir\n\n" 
 					+ "Digite su opción: ";
 
